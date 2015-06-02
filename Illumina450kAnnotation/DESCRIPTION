@@ -1,0 +1,11 @@
+Package: Illumina450kAnnotation
+Version: 0.1.1
+Date: 2015-06-01
+Title: Illumina450kAnnotation
+Authors: c(person("Jeffrey Thompson",
+    "Developer",
+    email = "..."))
+Author: Jeffrey Thompson
+Maintainer: Jeffrey Thompson <jeffrey.a.thompson.gr@dartmouth.edu>
+Description: A class for working with Illumina's 450k annotation.
+License: GPL (>= 2)
